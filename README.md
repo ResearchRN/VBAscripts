@@ -1,2 +1,2 @@
 # VBAscripts
-VBA code snippits
+VBA code snippits for Microsoft Access 2016
